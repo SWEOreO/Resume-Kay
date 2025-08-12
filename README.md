@@ -8,10 +8,14 @@ I'm Xiaojing (Kay) Xu, a software engineer with a Master's degree from **New Yor
 
 ## 🛠️ Recent Experience
 
-### Nysus Pro (Software Engineering Intern)
-- Contributed to an **event booking platform for artists**, improving product functionality and user experience.
-- Built features using **TypeScript**, **Next.js**, and **Supabase**, while collaborating cross-functionally with designers (via **Figma**) and fellow engineers.
-- Gained real-world experience in building **production-grade, user-facing software** in a fast-paced environment.
+### Nysus Pro (Software Engineering)
+- Developed dynamic front-end logic for user-facing features—including the onboarding flow, artist results, and booking process—using a modern Next.js, TypeScript, and React stack.
+- Built highly responsive and visually consistent web pages using Styled-Components, directly translating Figma design mockups into functional UI components.
+- Implemented Google OAuth user authorization enhancing user experience and system security.
+- Engineered a dynamic routing hook (e.g. useSearchParams) to direct authenticated users to appropriate dashboards based on their role. (e.g. Buyer → Dashboard; Artist → Setup Checklist)
+- Integrated Supabase as the backend service, utilizing a PostgreSQL database to manage user authentication, booking data, and artist information within an MVC architectural model.
+- Collaborated with team members to align engineer resource estimation, project management, and sprint planning with Notion, driving project delivery from inception to completion.
+- Identified and mitigated risks and bugs, ensuring timely project delivery and high-quality outcomes.
 
 ---
 
